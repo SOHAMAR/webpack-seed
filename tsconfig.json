@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "lib": ["DOM", "ES2015"],
+    "moduleResolution": "Node"
+  }
+}
